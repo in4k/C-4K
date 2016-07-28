@@ -1,0 +1,19 @@
+/*
+  // hello world
+	//
+	// official source code release
+	// for the c++4k, done for fun
+	// at dialogos 2001
+	//
+	// it's fast code, it compiles
+	// with vc6, it packs with apack
+	// after converting to com.
+	// franky did a tool to help you
+	// with this.
+	//
+	// if you like it, give us some
+	// credits.
+	//
+	// have fun,
+	// delta9 & franky
+*/
